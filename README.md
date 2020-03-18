@@ -8,4 +8,4 @@
 ### API Summary
 -	arcgis.com api for live covid-19 data
 -	geonames.org api for country flag
-- country code mapping JS customized based on www.countryflags.io data
+- country code customized mapping based on www.countryflags.io data
